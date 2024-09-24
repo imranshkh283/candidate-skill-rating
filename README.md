@@ -39,10 +39,6 @@ This project is designed to facilitate an assessment system with a focus on user
 5. **Authentication**
    - The system uses an authentication library to manage user sessions and access control.
   
-# Project Overview
-
-This project implements an assessment system featuring user roles, candidate responses, and skills aggregation.
-
 ## Tasks
 
 1. **User Sign Up API**
